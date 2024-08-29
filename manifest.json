@@ -1,6 +1,6 @@
 {
-    "name": "portfolio_web_app",
-    "short_name": "portfolio_web_app",
+    "name": "portfolio_web_flutter_novo",
+    "short_name": "portfolio_web_flutter_novo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
