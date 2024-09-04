@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Olimpíadas Paris 2024",
+        "description": "Este aplicativo foi desenvolvido para oferecer uma experiência completa sobre os Jogos Olímpicos de Paris 2024. Com ele, os usuários podem acompanhar em tempo real todas as informações sobre o evento, incluindo competidores, jogos passados e futuros, horários, datas, locais e a atualização do quadro de medalhas.",
+        "stacks": "Flutter, Dart, Bloc, Dio, Shared Preferences, Provider",
+        "date": "15/08/2024",
+        "images": [
+          "assets/images/projects/olimpiadas/olimpiadas1.jpg",
+          "assets/images/projects/olimpiadas/olimpiadas2.jpg",
+          "assets/images/projects/olimpiadas/olimpiadas3.jpg",
+          "assets/images/projects/olimpiadas/olimpiadas4.jpg",
+          "assets/images/projects/olimpiadas/olimpiadas5.jpg",
+          "assets/images/projects/olimpiadas/olimpiadas6.jpg"
+        ],
+        "coverImage": 2,
+        "url" : "https://github.com/joaoteodoro16/olimpiadas_paris_2024"
+      },
+      {
+        "name": "Economy",
+        "description": "Projeto de controle financeiro desenvolvido em Flutter, permitindo ao usuário organizar e acompanhar todas as suas despesas.",
+        "stacks": "Flutter, Dart, Mobx, SQFlite, FireBase Auth, Modular",
+        "date": "22/05/2024",
+        "images": [
+          "assets/images/projects/economy/economy1.png",
+          "assets/images/projects/economy/economy2.png",
+          "assets/images/projects/economy/economy3.png",
+          "assets/images/projects/economy/economy4.png",
+          "assets/images/projects/economy/economy5.png",
+          "assets/images/projects/economy/economy6.png",
+          "assets/images/projects/economy/economy7.png"
+        ],
+        "coverImage": 5,
+        "url" : "https://github.com/joaoteodoro16/economy"
+      },
+      {
+        "name": "HearFy",
+        "description": "Este aplicativo consome a API do Spotify e permite que o usuário visualize suas playlists e músicas, além de manipular a reprodução de uma prévia de cada faixa, com funcionalidades como pular, voltar e pausar. Nesse projeto, aperfeiçoei meus conhecimentos no consumo de APIs autenticadas e adquiri uma compreensão mais profunda de como interpretar e utilizar a documentação desse tipo de API.",
+        "stacks": "Flutter, Dart, Dio, Get",
+        "date": "10/06/2024",
+        "images": [
+          "assets/images/projects/spotify/spotify.png"
+        ],
+        "coverImage": 0,
+        "url" : "https://github.com/joaoteodoro16/hearfy"
+      }
+]
