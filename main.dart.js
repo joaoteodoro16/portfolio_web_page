@@ -68342,7 +68342,7 @@ s=t.p
 return A.dh(r,new A.bN(o,A.x8(B.cp,A.a([A.afB(r,A.l2(A.a([new A.Je(A.pS(A.ub("assets/images/person2.png",B.dF,r,r),q,m),!(n.a.a<657),r),B.HD,A.dX(A.a([B.Ma,B.M6,A.pC(r,r,B.b_,r,r,!0,r,A.dJ(A.a([B.II,A.dJ(r,A.ed(r,r,B.bh,r,r,r,r,r,r,r,r,20,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),"Mobile")],t.VO),r,r),B.au,r,r,B.al,B.ao),B.ip,new A.Dx(new A.Xy(),r,r,r,A.asx(r,r,B.t,r,r,r,r,r,r,r,r,r,r,B.t,r,B.wM,r,r,r,r),B.J,r,!1,r,!0,B.M7,r)],s),B.ar,B.W,B.M)],s),B.ag,B.W,B.M),r,r,r,r,50,r)],s),B.J,B.eV),r),B.cA,r,p,r,r,r)}}
 A.Xy.prototype={
 $0(){var s=document.createElement("a")
-s.href="https://drive.google.com/uc?export=download&id=1wE2Ub0aDi_SXMHCmtUteP1puXZ82322H"
+s.href="https://drive.google.com/file/d/1vXjQuejmICqd3hjdXqUykG-cTx2eHYJT/view?usp=sharing"
 s.download="Joao_Teodoro.pdf"
 s.click()},
 $S:0}
